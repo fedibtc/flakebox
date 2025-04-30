@@ -6,4 +6,4 @@ edition = { workspace = true }
 
 [dependencies]
 libsqlite3-sys = "0.26.0"
-openssl = "0.10.57"
+openssl = "0.10.66"
